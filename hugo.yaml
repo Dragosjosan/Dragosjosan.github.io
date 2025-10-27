@@ -128,7 +128,7 @@ params:
   # Label for theme toggle
   label:
     text: "Braein.io"
-    icon: /favicon.ico
+    icon: /favicon.png
     iconHeight: 35
 
 # Privacy settings
