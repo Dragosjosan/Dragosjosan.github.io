@@ -37,13 +37,6 @@ languages:
         - name: Blog
           url: /posts/
           weight: 10
-        - name: Tutorials
-          url: /tutorials/
-          weight: 20
-        - name: AI Agents
-          url: /agents/
-          weight: 30
-          weight: 40
         - name: Search
           url: /search/
           weight: 50
@@ -95,11 +88,7 @@ params:
 
   # Home page configuration - using Home-Info mode
   homeInfoParams:
-    Title: "Welcome to Braein.io - We build practical AI Agents"
-    Content: >
-      Explore technical tutorials, programming guides, and in-depth learning resources.
-      Whether you're starting your coding journey or advancing your skills,
-      you'll find practical, well-explained content here.
+    Title: "Braein.io Blog - A practical blog around AI"
 
   # Social icons
   socialIcons:

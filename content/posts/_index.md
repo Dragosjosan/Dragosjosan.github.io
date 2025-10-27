@@ -1,7 +1,6 @@
 ---
 title: "Blog"
-description: "Articles, insights, and tutorials on programming, AI, and technology"
-summary: "Explore articles covering programming, AI agents, technology trends, and practical tutorials"
+description: "My insights on developing products"
 
 # Optional: Add cover image for the posts section
 # cover:
